@@ -1,0 +1,12 @@
+<launch>
+  <!-- Topics to publish -->
+
+  <!-- parameters for romi.py  -->
+  <node name="path_finder" pkg="exploration" type="path.py" output="screen" args="romi1"/>
+
+
+  <!-- UNCOMMENT THIS WHEN USING MORE THAN ROMI ROBOT -->
+  <!-- <node name="romi2" pkg="romi_robots" type="romi.py" output="screen" args="romi2"/>
+  <node name="romi3" pkg="romi_robots" type="romi.py" output="screen" args="romi3"/> -->
+
+</launch>

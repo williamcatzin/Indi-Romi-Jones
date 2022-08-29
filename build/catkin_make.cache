@@ -1,0 +1,2 @@
+exploration:mapping:romi_robots
+-DCATKIN_DEVEL_PREFIX=/home/williamcatzin/indi_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/williamcatzin/indi_workspace/install -G Unix Makefiles

@@ -1,0 +1,6 @@
+[submodule "software/sdk"]
+	path = software/sdk
+	url = https://github.com/YDLIDAR/sdk.git
+[submodule "software/ydlidar_arduino"]
+	path = software/ydlidar_arduino
+	url = git@github.com:YDLIDAR/ydlidar_arduino.git
