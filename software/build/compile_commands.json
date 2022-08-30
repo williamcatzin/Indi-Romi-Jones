@@ -1,0 +1,117 @@
+[
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build",
+  "command": "/bin/gcc-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build -I/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki -g -o CMakeFiles/romi.dir/main.c.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/main.c",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/main.c"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/libraries/kobuki",
+  "command": "/bin/gcc-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build -I/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki -g -o CMakeFiles/kobuki.dir/kobukiUtilities.c.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiUtilities.c",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiUtilities.c"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/libraries/kobuki",
+  "command": "/bin/gcc-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build -I/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki -g -o CMakeFiles/kobuki.dir/kobukiUART.c.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiUART.c",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiUART.c"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/libraries/kobuki",
+  "command": "/bin/gcc-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build -I/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki -g -o CMakeFiles/kobuki.dir/kobukiActuator.c.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiActuator.c",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiActuator.c"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/libraries/kobuki",
+  "command": "/bin/gcc-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build -I/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki -g -o CMakeFiles/kobuki.dir/kobukiSensor.c.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensor.c",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensor.c"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/libraries/kobuki",
+  "command": "/bin/gcc-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build -I/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki -g -o CMakeFiles/kobuki.dir/kobukiSensorPoll.c.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensorPoll.c",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensorPoll.c"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/base/timer.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/base/timer.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/base/timer.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/common/ydlidar_def.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/common/ydlidar_def.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/common/ydlidar_def.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/network/ActiveSocket.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/network/ActiveSocket.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/network/ActiveSocket.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/network/PassiveSocket.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/network/PassiveSocket.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/network/PassiveSocket.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/network/SimpleSocket.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/network/SimpleSocket.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/network/SimpleSocket.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/serial/serial.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/serial/serial.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/serial/serial.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/gcc-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/serial/impl/unix/lock.c.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/serial/impl/unix/lock.c",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/serial/impl/unix/lock.c"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/serial/impl/unix/list_ports_linux.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/serial/impl/unix/list_ports_linux.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/serial/impl/unix/list_ports_linux.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/core/serial/impl/unix/unix_serial.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/serial/impl/unix/unix_serial.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core/serial/impl/unix/unix_serial.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/CYdLidar.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src/CYdLidar.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src/CYdLidar.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/ETLidarDriver.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src/ETLidarDriver.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src/ETLidarDriver.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/ydlidar_driver.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src/ydlidar_driver.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src/ydlidar_driver.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build  -std=c++11 -g -fPIC -o CMakeFiles/ydlidar_sdk.dir/src/ydlidar_sdk.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src/ydlidar_sdk.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src/ydlidar_sdk.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar/samples",
+  "command": "/bin/gcc-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/.. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar/samples -g -fPIC -std=c++11 -o CMakeFiles/lidar_c_api_test.dir/lidar_c_api_test.c.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/samples/lidar_c_api_test.c",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/samples/lidar_c_api_test.c"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar/samples",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/.. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar/samples  -std=c++11 -g -fPIC -std=c++11 -o CMakeFiles/ydlidar_test.dir/ydlidar_test.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/samples/ydlidar_test.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/samples/ydlidar_test.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar/samples",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/.. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar/samples  -std=c++11 -g -fPIC -std=c++11 -o CMakeFiles/tof_test.dir/tof_test.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/samples/tof_test.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/samples/tof_test.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar/samples",
+  "command": "/bin/g++-10  -I/home/pi/Desktop/EECS149/indi-romi-jones/software -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/src -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/core -I/home/pi/Desktop/EECS149/indi-romi-jones/software/.. -I/home/pi/Desktop/EECS149/indi-romi-jones/software/build/YDLidar/samples  -std=c++11 -g -fPIC -std=c++11 -o CMakeFiles/etlidar_test.dir/etlidar_test.cpp.o -c /home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/samples/etlidar_test.cpp",
+  "file": "/home/pi/Desktop/EECS149/indi-romi-jones/software/YDLidar/samples/etlidar_test.cpp"
+}
+]

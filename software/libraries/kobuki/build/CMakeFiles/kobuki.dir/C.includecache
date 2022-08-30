@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensor.c
+kobukiSensor.h
+/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensor.h
+stdio.h
+-
+string.h
+-
+
+/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensor.h
+stdbool.h
+-
+stdint.h
+-
+kobukiSensorTypes.h
+/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensorTypes.h
+
+/home/pi/Desktop/EECS149/indi-romi-jones/software/libraries/kobuki/kobukiSensorTypes.h
+stdint.h
+-
+stdbool.h
+-
+
